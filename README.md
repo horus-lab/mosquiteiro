@@ -4,17 +4,14 @@
 
 - Aplicação móvel 
   - Repositorio [MosquiteiroApp](https://github.com/horus-lab/MosquiteiroApp)
-  - Linguagem > Javascript
-  - Framework > Ionic + cordova
-  - Banco de dados > Sqlite
+  - Linguagem > Java
+  - Framework > Topeka
+  - Banco de dados > Realm
 
 - Server 
-  - Definir linguagem > Java ou javascript
+  - Linguagem > Go
   - Banco de dados > MongoDB e possivelmente redis
   - Framework
-    - Javascript
-       - Angularjs
-       - Meteor
-    - Java
-      - Vraptor
+    - [Revel](https://github.com/revel/revel)
+    - [GoRM](https://github.com/jinzhu/gorm)
 
